@@ -1,2 +1,2 @@
 # swiftblog
-swift博客的管理系统
+swift博客系统
