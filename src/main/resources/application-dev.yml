@@ -1,0 +1,5 @@
+swift:
+  jwt:
+    admin-secretKey: fxt
+    admin-ttl: 7200000
+    admin-token-name: token
